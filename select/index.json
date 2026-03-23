@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Drinkin' Man",
+  "base_artist": "George Strait",
+  "createdAt": "2026-03-23T15:50:19.835289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drinkin' Man",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Drinkin'_Man_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lord Loves the Drinkin Man",
+      "artist": "Kevin Fowler",
+      "has_synced": false,
+      "path": "select/02_Lord_Loves_the_Drinkin_Man_Kevin_Fowler.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Lord Loves the Drinkin' Man",
+      "artist": "Kevin Fowler",
+      "has_synced": false,
+      "path": "select/03_The_Lord_Loves_the_Drinkin'_Man_Kevin_Fowler.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Lord Loves a Drinkin' Man",
+      "artist": "Mark Chesnutt",
+      "has_synced": false,
+      "path": "select/04_The_Lord_Loves_a_Drinkin'_Man_Mark_Chesnutt.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drinkin' Man",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_Drinkin'_Man_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Medley: One's on the Way/The Pill/Don't Come Home A-Drinkin' Man/Coal Miner's Duaghter (Reprise)  (Live)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/06_Medley__One's_on_the_Way_The_Pill_Don't_Come_Home_A-Drinkin'_Man_Coal_Miner's_Du_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Lord Loves the Drinkin' Man",
+      "artist": "Mark Chesnutt",
+      "has_synced": false,
+      "path": "select/07_The_Lord_Loves_the_Drinkin'_Man_Mark_Chesnutt.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drinkin’ Man",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_Drinkin’_Man_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If I was a Drinkin' Man",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/09_If_I_was_a_Drinkin'_Man_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If I was a Drinkin' Man",
+      "artist": "McCoy, Neal",
+      "has_synced": true,
+      "path": "select/10_If_I_was_a_Drinkin'_Man_McCoy,_Neal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drinkin' Man",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_Drinkin'_Man_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drinkin' Man",
+      "artist": "Strait, George [US]",
+      "has_synced": true,
+      "path": "select/12_Drinkin'_Man_Strait,_George_[US].lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lord Loves a Drinkin' Man",
+      "artist": "Kevin Fowler",
+      "has_synced": false,
+      "path": "select/13_Lord_Loves_a_Drinkin'_Man_Kevin_Fowler.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If I Was A Drinkin’ Man",
+      "artist": "Neal Mccoy",
+      "has_synced": true,
+      "path": "select/14_If_I_Was_A_Drinkin’_Man_Neal_Mccoy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "If I Was a Drinkin' Man - Remastered",
+      "artist": "Neal McCoy",
+      "has_synced": false,
+      "path": "select/15_If_I_Was_a_Drinkin'_Man_-_Remastered_Neal_McCoy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drinkin' Man",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/pl_01_Drinkin'_Man_George_Strait.txt"
+    }
+  ]
+}
